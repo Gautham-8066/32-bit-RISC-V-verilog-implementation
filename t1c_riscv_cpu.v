@@ -1,7 +1,7 @@
 
 // t1c_riscv_cpu.v - Top Module to test riscv_cpu
 
-module t1c_riscv_cpu (
+module t_riscv_cpu (
     input         clk, reset,
     input         Ext_MemWrite,
     input  [31:0] Ext_WriteData, Ext_DataAdr,
