@@ -1,5 +1,5 @@
 
-// t1c_riscv_cpu.v - Top Module to test riscv_cpu
+// t_riscv_cpu.v - Top Module to test riscv_cpu
 
 module t_riscv_cpu (
     input         clk, reset,
